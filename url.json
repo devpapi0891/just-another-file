@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "facebook",
+    "url" : "https://facebook.com"
+  },
+  {
+    "name" : "youtube",
+    "url" : "https://youtube.com"
+  },
+  {
+    "name" : "google",
+    "url" : "https://google.com"
+  },
+  {
+    "name" : "instagram",
+    "url" : "https://twitter.com"
+  },
+  {
+    "name" : "linkedin",
+    "url" : "https://linkedin.com"
+  }
+]
