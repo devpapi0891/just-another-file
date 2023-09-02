@@ -10,13 +10,5 @@
   {
     "name" : "google",
     "url" : "https://google.com"
-  },
-  {
-    "name" : "instagram",
-    "url" : "https://twitter.com"
-  },
-  {
-    "name" : "linkedin",
-    "url" : "https://linkedin.com"
   }
 ]
