@@ -10,5 +10,9 @@
   {
     "name" : "google",
     "url" : "https://google.com"
+  },
+  {
+    "name" : "seekanime",
+    "url" : "http://seekanime.devpapi.online/querty"
   }
 ]
